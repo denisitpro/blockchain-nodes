@@ -2,7 +2,7 @@
 Description of assembly and dockerization of blockchain nodes
 
 * bitcoin
-* bitcoin cash
+* bitcoin-abc
 * litecoin
 * dogecoin
 * digibyte
